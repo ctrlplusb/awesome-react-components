@@ -488,6 +488,7 @@
  - [react-height](https://github.com/nkbt/react-height) - Component-wrapper to determine and report children elements height.
  - [react-height-reporter](https://github.com/berrtech/react-height-reporter) - React component-wrapper detecting height changes of it&#39;s children.
  - [react-dimensions](https://github.com/digidem/react-dimensions) - React higher-order component to get dimensions of container.
+ - [react-sizeme](https://github.com/ctrlplusb/react-sizeme) - Make your components aware of their Width/Height.
 
 
 ### Portal
